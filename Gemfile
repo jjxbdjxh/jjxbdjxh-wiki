@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3.0"
+gem "jekyll-remote-theme"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-paginate"
+gem "jekyll-avatar"
+gem "jekyll-mentions"
+gem "jemoji"
+gem "jekyll-relative-links"
+gem "jekyll-titles-from-headings"
