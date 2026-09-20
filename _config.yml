@@ -116,7 +116,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jemoji
-  - jekyll-gitlab-metadata
 
 
 #
