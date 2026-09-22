@@ -1,21 +1,40 @@
-# git-wiki-skeleton
+# 坚决谢不当讲笑话 Wiki
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+**坚决谢不当讲笑话 Wiki**是一个个人知识库，用于记录、整理和分享各类知识与条目。本站采用维基百科式的条目结构，内容由编者持续维护与更新。
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
+## 简介
 
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
+本站是一个开放式的知识整理平台，旨在以条目化的方式记录信息。每个条目遵循维基百科的格式规范，包括导言、章节、参考文献等部分。
 
-To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
+本站内容涵盖多个领域，条目之间通过内部链接相互关联，形成知识网络。
 
-## The git-wiki project
+## 条目列表
 
-The git-wiki project is composed by 3 different repository:
+以下为本站当前收录的条目：
 
-- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
+- [示例页面](example-page) — 模板自带的示例条目
+- [新建页面](new_page) — 用于测试新建页面的条目
 
-- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it.
+## 编辑指南
 
-- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
+本站欢迎访客参与编辑。编辑时请遵循以下原则：
 
-Version: 1.0.9
+1. **客观中立**：条目内容应保持中立，避免主观评价
+2. **来源可靠**：重要信息应注明来源
+3. **格式规范**：遵循维基百科式的排版规范
+
+访客如需编辑，可通过页面上的编辑按钮提交修改建议，经审核后合并。
+
+## 参见
+
+- [GitHub 仓库](https://github.com/jjxbdjxh/jjxbdjxh-wiki)
+
+## 参考文献
+
+1. 维基百科. [格式手册](https://zh.wikipedia.org/wiki/Wikipedia:格式手册). 
+2. Jekyll. [官方文档](https://jekyllrb.com/docs/).
+
+---
+
+*本页面最后更新于 2026年9月。*
+
